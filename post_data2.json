@@ -2,55 +2,34 @@
   "data": [
     {
       "images": [
-        "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-        "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+        "https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhVwkRdzs000S5kMyfO8bvHy583BAtZy0IDEDNg0tdrcPk1poHObmculeryquSsA7F_4&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHITc9Jxtoh5n-fqrNLR39QD0ALKEgxXlZxqe5HH6C8eZcLIvNYJCW3hOwOZVWO6ESgM4&usqp=CAU"
       ],
-      "caption": "🏞️ Morning hike vibes!",
-      "user_name": "Priya Mehta",
-      "posted_on": "12/04/2025",
-      "description": "Started my day with a 5 km hike 🌄. The view was worth every step!",
-      "post_id": "10",
-      "video_url": ""
-    },
-    {
-      "images": [
-        "https://images.pexels.com/photos/1640778/pexels-photo-1640778.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-      ],
-      "caption": "💪 Push day workout",
-      "user_name": "Rahul Verma",
-      "posted_on": "13/04/2025",
-      "description": "Bench press, incline dumbbells, and a killer triceps burn 🔥",
-      "post_id": "11",
+      "caption": "No guts, No Glory",
+      "user_name": "Sunil Yadhav",
+      "posted_on": "25/03/2025",
+      "description": "m Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ",
+      "post_id": "2",
       "video_url": ""
     },
     {
       "images": [],
-      "caption": "🍲 Sunday Cheat Meal",
-      "user_name": "Sneha Kapoor",
-      "posted_on": "13/04/2025",
-      "description": "Pizza + Coke + Ice cream = Heaven 😍🍕🍦",
-      "post_id": "12",
-      "video_url": "https://youtube.com/shorts/abcd1234efg"
-    },
-    {
-      "images": [
-        "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
-      ],
-      "caption": "📚 Book of the week",
-      "user_name": "Ankit Sharma",
-      "posted_on": "14/04/2025",
-      "description": "Currently reading *Atomic Habits*. Small steps = big changes. Highly recommend! 📖✨",
-      "post_id": "13",
+      "caption": "🍎 Diet I Follow in a Day 🥗",
+      "user_name": "Aarav Sharma",
+      "posted_on": "26/03/2025",
+      "description": " 🌞 Morning: Oats with fruits & black coffee ☕\n🍲 Lunch: Brown rice, grilled chicken & veggies 🥦\n🍎 Evening Snack: Nuts & green tea 🍵\n🍛 Dinner: Paneer curry with chapati 🫓\n🥛 Before Bed: Warm milk with turmeric 🌙",
+      "post_id": "3",
       "video_url": ""
     },
     {
       "images": [],
-      "caption": "🏋️‍♀️ Deadlift PR unlocked!",
-      "user_name": "Neha Singh",
-      "posted_on": "14/04/2025",
-      "description": "Hit 120kg deadlift today 😱🔥 Feeling stronger than ever!",
-      "post_id": "14",
-      "video_url": "https://youtube.com/shorts/xyz98765"
+      "caption": "pre-workout at Rs 7 only",
+      "user_name": "Varghese Polson",
+      "posted_on": "25/03/2025",
+      "description": "🟥FOR 100 DAY BODY TRANSFORMATION PLAN (for details contact)",
+      "post_id": "4",
+      "video_url": "https://youtube.com/shorts/pTFgRC2ynGc?si=wj7ZdZGN3QjTErcb"
     }
   ],
   "nextPage": "end"
