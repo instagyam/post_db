@@ -32,5 +32,5 @@
       "video_url": "https://youtube.com/shorts/pTFgRC2ynGc?si=wj7ZdZGN3QjTErcb"
     }
   ],
-  "nextPage": "https://api.myapp.com/community/posts?page=2"
+  "nextPage": "https://raw.githubusercontent.com/instagyam/post_db/main/post_data2.json"
 }
