@@ -53,5 +53,5 @@
       "video_url": "https://youtube.com/shorts/xyz98765"
     }
   ],
-  "nextPage": "https://api.myapp.com/community/posts?page=3"
+  "nextPage": ""
 }
