@@ -1,0 +1,57 @@
+{
+  "data": [
+    {
+      "images": [
+        "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "https://images.pexels.com/photos/414029/pexels-photo-414029.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      ],
+      "caption": "🏞️ Morning hike vibes!",
+      "user_name": "Priya Mehta",
+      "posted_on": "12/04/2025",
+      "description": "Started my day with a 5 km hike 🌄. The view was worth every step!",
+      "post_id": "10",
+      "video_url": ""
+    },
+    {
+      "images": [
+        "https://images.pexels.com/photos/1640778/pexels-photo-1640778.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      ],
+      "caption": "💪 Push day workout",
+      "user_name": "Rahul Verma",
+      "posted_on": "13/04/2025",
+      "description": "Bench press, incline dumbbells, and a killer triceps burn 🔥",
+      "post_id": "11",
+      "video_url": ""
+    },
+    {
+      "images": [],
+      "caption": "🍲 Sunday Cheat Meal",
+      "user_name": "Sneha Kapoor",
+      "posted_on": "13/04/2025",
+      "description": "Pizza + Coke + Ice cream = Heaven 😍🍕🍦",
+      "post_id": "12",
+      "video_url": "https://youtube.com/shorts/abcd1234efg"
+    },
+    {
+      "images": [
+        "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+      ],
+      "caption": "📚 Book of the week",
+      "user_name": "Ankit Sharma",
+      "posted_on": "14/04/2025",
+      "description": "Currently reading *Atomic Habits*. Small steps = big changes. Highly recommend! 📖✨",
+      "post_id": "13",
+      "video_url": ""
+    },
+    {
+      "images": [],
+      "caption": "🏋️‍♀️ Deadlift PR unlocked!",
+      "user_name": "Neha Singh",
+      "posted_on": "14/04/2025",
+      "description": "Hit 120kg deadlift today 😱🔥 Feeling stronger than ever!",
+      "post_id": "14",
+      "video_url": "https://youtube.com/shorts/xyz98765"
+    }
+  ],
+  "nextPage": "https://api.myapp.com/community/posts?page=3"
+}
