@@ -1,36 +1,45 @@
-  {'images':['https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhVwkRdzs000S5kMyfO8bvHy583BAtZy0IDEDNg0tdrcPk1poHObmculeryquSsA7F_4&usqp=CAU','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHITc9Jxtoh5n-fqrNLR39QD0ALKEgxXlZxqe5HH6C8eZcLIvNYJCW3hOwOZVWO6ESgM4&usqp=CAU'],
-    'caption':'No guts, No Glory',
-    'user_name':'Sunil Yadhav',
-    'posted_on':'25/03/2025',
-    'description':'m Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type ',
-    'post_id':'2',
-    'video_url':''
+{
+  'data': [
+    {
+      'images': [
+        'https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRhVwkRdzs000S5kMyfO8bvHy583BAtZy0IDEDNg0tdrcPk1poHObmculeryquSsA7F_4&usqp=CAU',
+        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHITc9Jxtoh5n-fqrNLR39QD0ALKEgxXlZxqe5HH6C8eZcLIvNYJCW3hOwOZVWO6ESgM4&usqp=CAU'
+      ],
+      'caption': 'No guts, No Glory',
+      'user_name': 'Sunil Yadhav',
+      'posted_on': '25/03/2025',
+      'description':
+          'm Ipsum has been the industrys standard dummy text ever since the 1500s, '
+              'when an unknown printer took a galley of type and scrambled it to make a type ',
+      'post_id': '2',
+      'video_url': ''
     },
-  {
-  'images': [
-  
+    {
+      'images': [],
+      'caption': '🍎 Diet I Follow in a Day 🥗',
+      'user_name': 'Aarav Sharma',
+      'posted_on': '26/03/2025',
+      'description': ' 🌞 Morning: Oats with fruits & black coffee ☕\n'
+          '🍲 Lunch: Brown rice, grilled chicken & veggies 🥦\n'
+          '🍎 Evening Snack: Nuts & green tea 🍵\n'
+          '🍛 Dinner: Paneer curry with chapati 🫓\n'
+          '🥛 Before Bed: Warm milk with turmeric 🌙',
+      'post_id': '3',
+      'video_url': ''
+    },
+    {
+      'images': [],
+      'caption': 'pre-workout at Rs 7 only',
+      'user_name': 'Varghese Polson',
+      'posted_on': '25/03/2025',
+      'description':
+          '🟥FOR 100 DAY BODY TRANSFORMATION PLAN (for details contact)',
+      'post_id': '4',
+      'video_url': 'https://youtube.com/shorts/pTFgRC2ynGc?si=wj7ZdZGN3QjTErcb'
+    },
   ],
-  'caption': '🍎 Diet I Follow in a Day 🥗',
-  'user_name': 'Aarav Sharma',
-  'posted_on': '26/03/2025',
-  'description': 
-      ' 🌞 Morning: Oats with fruits & black coffee ☕\n'
-      '🍲 Lunch: Brown rice, grilled chicken & veggies 🥦\n'
-      '🍎 Evening Snack: Nuts & green tea 🍵\n'
-      '🍛 Dinner: Paneer curry with chapati 🫓\n'
-      '🥛 Before Bed: Warm milk with turmeric 🌙',
-  'post_id': '3',
-  'video_url': ''
+
+  /// 👇 added nextPage link
+  'nextPage': 'https://api.myapp.com/community/posts?page=2',
 }
-,
-     {'images':[],
-    'caption':'pre-workout at Rs 7 only',
-    'user_name':'Varghese Polson',
-    'posted_on':'25/03/2025',
-    'description':'🟥FOR 100 DAY BODY TRANSFORMATION PLAN(for details contact)',
-    'post_id':'2',
-    'video_url':'https://youtube.com/shorts/pTFgRC2ynGc?si=wj7ZdZGN3QjTErcb'
-    },
-  
- 
-];
