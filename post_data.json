@@ -40,6 +40,6 @@
     },
   ],
 
-  /// 👇 added nextPage link
+  
   'nextPage': 'https://api.myapp.com/community/posts?page=2',
 }
